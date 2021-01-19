@@ -32,9 +32,7 @@ According to the analysis,
 <br>
 
 **Figure 3: Total Retiring**
-
 <br>
-
 ![Total_Retiring](Resources/total_retiring_code.png)
 <br>
 
@@ -44,18 +42,14 @@ According to the analysis,
 <br>
 
 **Figure 4: Mentorship-Eligible by Title Query**
-
 <br>
-
 ![Mentorship_by_Title](Resources/mentorship_by_title.png)
 <br>
 
 <br>
 
 **Figure 5: Mentorship-Eligible by Title Chart**
-
 <br>
-
 ![Mentorship_Titles](Resources/mentorship_titles.png)
 <br>
 When compared to Figure 1, it is apparent that there are enough retirement-eligible employees in all departments to mentor their replacements.
