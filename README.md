@@ -12,19 +12,15 @@ The purpose of this project was to analyze employee retirement data at Pewlett-H
 
 ## Results
 According to the analysis,
-<br>
-**Total Retiring**
-<br>
-![Retiring_Total](Resources/retiring_total.png)
 - 90,398 employees born between 1952 and 1955 are eligible for retirement.
 
-**Retiring Titles**
+**Firgure 1: Retiring Titles**
 <br>
 ![Retiring_Titles](Resources/retiring_titles.png)
 - 29,414 of those eligible for retirement hold the title of Senior Engineer.
 - 14,222 are Engineers, 4,502 are Staff, and 2 are Managers.
 
-**Mentorship Eligible**
+**Figure 2: Mentorship Eligible**
 <br>
 ![Mentorship_Eligible](Resources/mentorship_eligibility.png)
 - 1,550 of the employees are eligible for the Mentorship Program.
@@ -35,6 +31,8 @@ According to the analysis,
 - As the "silver tsumani" begins, 90,398 roles will need to be filled. This was found by using the following query:
 <br>
 
+**Figure 3: Total Retiring**
+<br>
 ![Total_Retiring](Resources/total_retiring_code.png)
 <br>
 
@@ -43,16 +41,18 @@ According to the analysis,
 - There are enough retirement-ready employees all departments to mentor the next generation of employees. This was found using the following query:
 <br>
 
+**Figure 4: Mentorship-Eligible by Title Query**
+<br>
 ![Mentorship_by_Title](Resources/mentorship_by_title.png)
 <br>
 
-**The result:**
 <br>
 
-**Mentorship Eligible by Title**
+**Figure 5: Mentorship-Eligible by Title Chart**
 <br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
-
 <br>
+When compared to Figure 1, it is apparent that there are enough retirement-eligible employees in all departments to mentor their replacements.
+
 ## Conclusion
 Based on the overall analysis, it can be concluded that Pewlett Hackard will be able to successfully replace its retiring employees without any issues. There are enough staff to train and mentor new employees before retiring.
