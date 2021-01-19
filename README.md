@@ -30,8 +30,11 @@ According to the analysis,
 <br>
 - As the "silver tsumani" begins, 90,398 roles will need to be filled. This was found by using the following query:
 <br>
+
 **Figure 3: Total Retiring**
+
 <br>
+
 ![Total_Retiring](Resources/total_retiring_code.png)
 <br>
 
@@ -39,16 +42,20 @@ According to the analysis,
 <br>
 - There are enough retirement-ready employees all departments to mentor the next generation of employees. This was found using the following query:
 <br>
-**Figure 4: Mentorship-Eligible by Title**
+
+**Figure 4: Mentorship-Eligible by Title Query**
+
 <br>
+
 ![Mentorship_by_Title](Resources/mentorship_by_title.png)
 <br>
 
-**The result:**
 <br>
 
-**Figure 5: Mentorship Eligible by Title**
+**Figure 5: Mentorship-Eligible by Title Chart**
+
 <br>
+
 ![Mentorship_Titles](Resources/mentorship_titles.png)
 <br>
 When compared to Figure 1, it is apparent that there are enough retirement-eligible employees in all departments to mentor their replacements.
