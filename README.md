@@ -13,14 +13,14 @@ The purpose of this project was to analyze employee retirement data at Pewlett-H
 ## Results
 According to the analysis,
 
-![Total_Retiring](Resources/total_retiring.png)
+![Retiring_Total](Resources/retiring_total.png)
 - 90,398 employees born between 1952 and 1955 are eligible for retirement.
 
 ![Retiring_Titles](Resources/retiring_titles.png)
 - 29,414 of those eligible for retirement hold the title of Senior Engineer.
 - 14,222 are Engineers, 4,502 are Staff, and 2 are Managers.
 
-![Mentorship_Eligible](Resources/mentorship_eligible.png)
+![Mentorship_Eligible](Resources/mentorship_eligibility.png)
 - 1,550 of the employees eligible for retirement are also eligible for the Mentorship Program.
 
 ## Summary
