@@ -38,10 +38,13 @@ According to the analysis,
 <br>
 - There are enough retirement-ready employees all departments to mentor the next generation of employees. This was found using the following query:
 <br>
+
 ![Mentorship_by_Title](Resources/mentorship_by_title.png)
 <br>
+
 **The result:**
 <br>
+
 **Mentorship Eligible by Title**
 <br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
