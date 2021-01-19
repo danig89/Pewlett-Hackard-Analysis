@@ -12,10 +12,6 @@ The purpose of this project was to analyze employee retirement data at Pewlett-H
 
 ## Results
 According to the analysis,
-<br>
-**Total Retiring**
-<br>
-![Retiring_Total](Resources/retiring_total.png)
 - 90,398 employees born between 1952 and 1955 are eligible for retirement.
 
 **Retiring Titles**
@@ -54,5 +50,6 @@ According to the analysis,
 ![Mentorship_Titles](Resources/mentorship_titles.png)
 
 <br>
+
 ## Conclusion
 Based on the overall analysis, it can be concluded that Pewlett Hackard will be able to successfully replace its retiring employees without any issues. There are enough staff to train and mentor new employees before retiring.
