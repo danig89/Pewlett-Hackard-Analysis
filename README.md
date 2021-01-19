@@ -32,7 +32,11 @@ According to the analysis,
 ## Summary
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 <br>
-- As the "silver tsumani" begins, 90,398 roles will need to be filled.
+- As the "silver tsumani" begins, 90,398 roles will need to be filled. This was found by using the following query:
+<br>
+
+![Total_Retiring](Resources/total_retiring_code.png)
+<br>
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 <br>
@@ -48,3 +52,4 @@ According to the analysis,
 **Mentorship Eligible by Title**
 <br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
+
