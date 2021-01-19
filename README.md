@@ -32,15 +32,27 @@ According to the analysis,
 ## Summary
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 <br>
-- As the "silver tsumani" begins, 90,398 roles will need to be filled.
+- As the "silver tsumani" begins, 90,398 roles will need to be filled. This was found by using the following query:
+<br>
+
+![Total_Retiring](Resources/total_retiring_code.png)
+<br>
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 <br>
 - There are enough retirement-ready employees all departments to mentor the next generation of employees. This was found using the following query:
 <br>
+
 ![Mentorship_by_Title](Resources/mentorship_by_title.png)
 <br>
+
 **The result:**
 <br>
+
 **Mentorship Eligible by Title**
+<br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
+
+<br>
+## Conclusion
+Based on the overall analysis, it can be concluded that Pewlett Hackard will be able to successfully replace its retiring employees without any issues. There are enough staff to train and mentor new employees before retiring.
