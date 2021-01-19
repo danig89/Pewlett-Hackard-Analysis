@@ -53,3 +53,6 @@ According to the analysis,
 <br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
 
+<br>
+## Conclusion
+Based on the overall analysis, it can be concluded that Pewlett Hackard will be able to successfully replace its retiring employees without any issues. There are enough staff to train and mentor new employees before retiring.
