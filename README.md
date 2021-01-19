@@ -43,4 +43,5 @@ According to the analysis,
 **The result:**
 <br>
 **Mentorship Eligible by Title**
+<br>
 ![Mentorship_Titles](Resources/mentorship_titles.png)
